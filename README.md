@@ -1,0 +1,3 @@
+-First project made for university. 
+-Used PyCharm IDE.
+-Python programming.
